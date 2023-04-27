@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 129.61">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #de5a12;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: #417b4d;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6, .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        font-family: OverpassRoman-ExtraBold, Overpass;
+        font-size: 105.54px;
+        font-variation-settings: 'wght' 800;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text class="cls-9" transform="translate(0 89.71)"><tspan class="cls-6" x="0" y="0">P</tspan><tspan class="cls-7" x="65.86" y="0">e</tspan><tspan class="cls-8" x="125.44" y="0">n</tspan><tspan class="cls-5" x="189.29" y="0">n</tspan><tspan class="cls-4" x="251.82" y="0">y</tspan><tspan class="cls-3" x="313.14" y="0">P</tspan><tspan class="cls-2" x="379" y="0">e</tspan><tspan class="cls-1" x="438.1" y="0">t</tspan></text>
+</svg>
