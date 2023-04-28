@@ -16,8 +16,10 @@ module.exports = {
       'tablet': '640px',
     },
     extend: {
+      fontFamily: {
+        Overpass : ['Overpass']
     },
   },
   plugins: [],
+  }
 }
-
